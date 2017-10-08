@@ -1,0 +1,1 @@
+"./gpio.obj" "./hello.obj" "./tm4c123gh6pm_startup_ccs.obj" "./tp_transiver.obj" "./uart.obj" "../tm4c123gh6pm.cmd" -llibc.a 
