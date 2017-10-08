@@ -2,7 +2,7 @@
  * types.h
  *
  *  Created on: Mar 10, 2016
- *      Author: Mohammad Safie
+ *      Author: Hossam Adel
  */
 
 #ifndef TYPES_H_
